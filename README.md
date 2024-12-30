@@ -64,7 +64,7 @@ python mainproj.py
 ## Project Structure
 
 - **`handtrack_min.py`**: Module for hand detection and landmark processing.
-- **`gesture_volume_control.py`**: Main script to integrate hand tracking and volume control functionality.
+- **`mainproj.py`**: Main script to integrate hand tracking and volume control functionality.
 
 ---
 
